@@ -7,7 +7,7 @@ export default function CTA() {
         {/* CTA ROW */}
         <div className="hidden md:grid grid-cols-3 items-center">
   {/* Left text */}
-  <h3 className="text-xl font-medium">
+  <h3 className="text-[36px] font-[500]">
     Join the future of data sovereignty
   </h3>
 
@@ -31,7 +31,7 @@ export default function CTA() {
 
 {/* Mobile */}
 <div className="md:hidden flex flex-col gap-4">
-  <h3 className="text-lg font-medium">
+  <h3 className="text-[28px] font-[400]">
     Join the future of data sovereignty
   </h3>
 
@@ -72,7 +72,7 @@ export default function CTA() {
         <div className="border-t border-black/40"></div>
 
         {/* LABEL BELOW LINE */}
-        <div className="flex justify-end mt-2">
+        <div className="hidden md:flex justify-end mt-2">
           <span className="text-sm">
             Dynamic infrastructure
           </span>

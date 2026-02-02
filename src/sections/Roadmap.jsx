@@ -4,7 +4,9 @@ export default function Roadmap() {
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-24">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-5xl font-medium text-center max-w-4xl mx-auto mb-16">
+        <h2 className="text-[43px]
+  md:text-[86px]
+  font-[400] md:text-5xl font-medium text-center max-w-4xl mx-auto mb-16">
           Our Road to Creating Data Ownership and Security
         </h2>
 

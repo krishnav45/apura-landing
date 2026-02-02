@@ -15,15 +15,15 @@ export default function AboutUs() {
         "
       >
 
-        {/* LEFT — UNCHANGED */}
+        
         <div className="flex-1 text-white">
           <span className="text-sm opacity-70">About us</span>
 
-          <h2 className="mt-6 text-[40px] md:text-[72px] font-medium leading-[110%] text-lime">
+          <h2 className="mt-6 text-[43px] md:text-[86px] font-[400] leading-[110%] text-lime">
             By Europeans,<br />for Europeans
           </h2>
 
-          <p className="mt-6 max-w-md text-white/80 leading-relaxed">
+          <p className="mt-6 text-[22px] md:text-[24px] font-[400] text-white/80 leading-relaxed">
             Our vision is to empower governments, organizations and individuals
             with control and independence in the online realm.
           </p>
